@@ -1010,7 +1010,7 @@ a cascaded skip from ``task1``. ``task4`` is downstream of ``task1`` and
 ``task2``, but it will not be skipped, since its ``trigger_rule`` is set to
 ``all_done``.
 
-.. image:: img/latest_only_with_trigger.png
+.. image:: img/latest_only_with_trigger.png -> The tree structure is wrong as per the above code.
 
 
 Zombies & Undeads
